@@ -1,0 +1,15 @@
+C:\LearnProjs\DotNetProj\bin\Debug\net6.0\DotNetProj.exe
+C:\LearnProjs\DotNetProj\bin\Debug\net6.0\DotNetProj.deps.json
+C:\LearnProjs\DotNetProj\bin\Debug\net6.0\DotNetProj.runtimeconfig.json
+C:\LearnProjs\DotNetProj\bin\Debug\net6.0\DotNetProj.dll
+C:\LearnProjs\DotNetProj\bin\Debug\net6.0\DotNetProj.pdb
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.csproj.AssemblyReference.cache
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.AssemblyInfoInputs.cache
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.AssemblyInfo.cs
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.csproj.CoreCompileInputs.cache
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.dll
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\refint\DotNetProj.dll
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.pdb
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\DotNetProj.genruntimeconfig.cache
+C:\LearnProjs\DotNetProj\obj\Debug\net6.0\ref\DotNetProj.dll
